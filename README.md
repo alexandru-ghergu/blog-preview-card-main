@@ -5,7 +5,7 @@ This is my first solution to the [Blog Preview Card page challenge on Frontend M
 ## 🪞 Screenshots
 
 ![](design/solution-desktop-design.png)
-![](design/solution-mobile-design.jpg)
+![](design/solution-mobile-design.png)
 
 ## 🎥 Live WebSite
 
