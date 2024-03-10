@@ -9,7 +9,7 @@ This is my first solution to the [Blog Preview Card page challenge on Frontend M
 
 ## 🎥 Live WebSite
 
-- Live Site URL: [Add live site URL here](https://alexandru-ghergu.github.io/blog-preview-card-main/)
+- [Live site URL](https://alexandru-ghergu.github.io/blog-preview-card-main/)
 
 ## 🪄 Technologies
 
