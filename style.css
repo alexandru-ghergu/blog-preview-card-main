@@ -20,12 +20,13 @@ main {
 }
 
 .main-container {
-    width: 380px;
+    width: 384px;
+    height: 520px;
     margin: 0px 20px;
     text-align: center;
-    border-radius: 15px;
+    border-radius: 20px;
     border: 1px solid black;
-    box-shadow: 10px 5px 0px 0px;
+    box-shadow: 10px 10px 0px 0px;
     background-color: hsl(0, 0%, 100%);
 }
 
